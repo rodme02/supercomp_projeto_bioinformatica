@@ -12,14 +12,14 @@
 
 ## Como rodar
 
-1. Clone o repositório e entre na pasta do projeto.
+1. Clone o repositório e entre na pasta do projeto:
 
 ```bash
 git clone https://github.com/rodme02/supercomp_projeto_bioinformatica.git
 cd supercomp_projeto_bioinformatica
 ```
 
-2. Baixe os dados e faça o pré-processamento.
+2. Baixe os dados e faça o pré-processamento:
 
 ```bash
 bash scripts/script_download.sh
