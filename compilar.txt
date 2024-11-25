@@ -1,0 +1,1 @@
+mpic++ -fopenmp -o src/ex1 src/ex1.cpp
