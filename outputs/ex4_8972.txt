@@ -1,0 +1,31 @@
+Process 0 processing file: dados/rna/rna_chr1.subst.fa
+Process 1 processing file: dados/rna/rna_chr6.subst.fa
+Process 3 processing file: dados/rna/rna_chr16.subst.fa
+Process 2 processing file: dados/rna/rna_chr11.subst.fa
+Process 3 processing file: dados/rna/rna_chr17.subst.fa
+Process 2 processing file: dados/rna/rna_chr12.subst.fa
+Process 3 processing file: dados/rna/rna_chr18.subst.fa
+Process 1 processing file: dados/rna/rna_chr7.subst.fa
+Process 0 processing file: dados/rna/rna_chr2.subst.fa
+Process 2 processing file: dados/rna/rna_chr13.subst.fa
+Process 3 processing file: dados/rna/rna_chr19.subst.fa
+Process 3 processing file: dados/rna/rna_chr20.subst.fa
+Process 2 processing file: dados/rna/rna_chr14.subst.fa
+Process 1 processing file: dados/rna/rna_chr8.subst.fa
+Process 3 processing file: dados/rna/rna_chr21.subst.fa
+Process 2 processing file: dados/rna/rna_chr15.subst.fa
+Process 0 processing file: dados/rna/rna_chr3.subst.fa
+Process 3 processing file: dados/rna/rna_chr22.subst.fa
+Process 1 processing file: dados/rna/rna_chr9.subst.fa
+Process 0 processing file: dados/rna/rna_chr4.subst.fa
+Process 1 processing file: dados/rna/rna_chr10.subst.fa
+Process 0 processing file: dados/rna/rna_chr5.subst.fa
+Process 1 reached the end of the program.
+Process 2 reached the end of the program.
+Translated protein (amino acids represented by numbers):
+Total amino acids: 196780070
+1 1 1 1 1 1 1 1 1 1 1 1 1 4 4 4 4 4 4 4 4 4 4 1 1 1 1 4 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 1 1 1 1 4 3 1 1 4 1 4 1 4 1 4 3 1 4 4 1 1 1 1 1 1 1 1 4 4 4 1 1 1 1 1 1 1 1 6 4 2 1 1 2 6 4 2 7 3 3 1 3 3 1 2 3 1 ... (output truncated)
+Finished printing amino acids.
+Process 3 reached the end of the program.
+All amino acids are valid.
+Process 0 reached the end of the program.

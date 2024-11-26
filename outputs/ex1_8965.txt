@@ -1,0 +1,49 @@
+Processo 3 processou arquivo: dados/processados/processed_chr16.subst.fa
+Contagens no arquivo: A: 20871252, T: 21007375, C: 16174512, G: 16278731
+Processo 2 processou arquivo: dados/processados/processed_chr11.subst.fa
+Contagens no arquivo: A: 36926066, T: 36930948, C: 25276826, G: 25315890
+Processo 3 processou arquivo: dados/processados/processed_chr17.subst.fa
+Contagens no arquivo: A: 20429535, T: 20478433, C: 16456691, G: 16431683
+Processo 1 processou arquivo: dados/processados/processed_chr6.subst.fa
+Contagens no arquivo: A: 48777510, T: 48754629, C: 30877944, G: 30903839
+Processo 0 processou arquivo: dados/processados/processed_chr1.subst.fa
+Contagens no arquivo: A: 63339079, T: 63436193, C: 43864238, G: 43867185
+Processo 2 processou arquivo: dados/processados/processed_chr12.subst.fa
+Contagens no arquivo: A: 37254175, T: 37280600, C: 24802004, G: 24787035
+Processo 3 processou arquivo: dados/processados/processed_chr18.subst.fa
+Contagens no arquivo: A: 21674187, T: 21702278, C: 13827701, G: 13852599
+Processo 3 processou arquivo: dados/processados/processed_chr19.subst.fa
+Contagens no arquivo: A: 13850505, T: 13889615, C: 12384102, G: 12418013
+Processo 2 processou arquivo: dados/processados/processed_chr13.subst.fa
+Contagens no arquivo: A: 28302226, T: 28406778, C: 17180726, G: 17179219
+Processo 1 processou arquivo: dados/processados/processed_chr7.subst.fa
+Contagens no arquivo: A: 44360151, T: 44415926, C: 29477596, G: 29442164
+Processo 3 processou arquivo: dados/processados/processed_chr20.subst.fa
+Contagens no arquivo: A: 15935081, T: 16153117, C: 12170451, G: 12207337
+Processo 3 processou arquivo: dados/processados/processed_chr21.subst.fa
+Contagens no arquivo: A: 10045514, T: 9964161, C: 6637887, G: 6650030
+Processo 2 processou arquivo: dados/processados/processed_chr14.subst.fa
+Contagens no arquivo: A: 25060765, T: 25282413, C: 16790929, G: 16833734
+Processo 0 processou arquivo: dados/processados/processed_chr2.subst.fa
+Contagens no arquivo: A: 68601804, T: 68745426, C: 44657238, G: 44693761
+Processo 3 processou arquivo: dados/processados/processed_chr22.subst.fa
+Contagens no arquivo: A: 8776181, T: 8738261, C: 7758796, G: 7752671
+Processo 2 processou arquivo: dados/processados/processed_chr15.subst.fa
+Contagens no arquivo: A: 22799634, T: 22772026, C: 16073321, G: 16056968
+Processo 1 processou arquivo: dados/processados/processed_chr8.subst.fa
+Contagens no arquivo: A: 41199462, T: 41128442, C: 26596792, G: 26570194
+Processo 0 processou arquivo: dados/processados/processed_chr3.subst.fa
+Contagens no arquivo: A: 56617656, T: 56672399, C: 36015980, G: 36027177
+Processo 1 processou arquivo: dados/processados/processed_chr9.subst.fa
+Contagens no arquivo: A: 34033450, T: 34005259, C: 23111261, G: 23098696
+Processo 0 processou arquivo: dados/processados/processed_chr4.subst.fa
+Contagens no arquivo: A: 55867752, T: 55878175, C: 33405507, G: 33422089
+Processo 1 processou arquivo: dados/processados/processed_chr10.subst.fa
+Contagens no arquivo: A: 36997832, T: 37039357, C: 25425373, G: 25417055
+Processo 0 processou arquivo: dados/processados/processed_chr5.subst.fa
+Contagens no arquivo: A: 51797301, T: 51924365, C: 32719838, G: 32765414
+Contagem total de nucleotídeos:
+A: 763517118
+T: 764606176
+C: 511685713
+G: 511971484

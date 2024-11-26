@@ -1,0 +1,23 @@
+Processo 1 processando arquivo: dados/rna/rna_chr6.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr16.subst.fa
+Processo 2 processando arquivo: dados/rna/rna_chr11.subst.fa
+Processo 0 processando arquivo: dados/rna/rna_chr1.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr17.subst.fa
+Processo 2 processando arquivo: dados/rna/rna_chr12.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr18.subst.fa
+Processo 1 processando arquivo: dados/rna/rna_chr7.subst.fa
+Processo 0 processando arquivo: dados/rna/rna_chr2.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr19.subst.fa
+Processo 2 processando arquivo: dados/rna/rna_chr13.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr20.subst.fa
+Processo 1 processando arquivo: dados/rna/rna_chr8.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr21.subst.fa
+Processo 2 processando arquivo: dados/rna/rna_chr14.subst.fa
+Processo 3 processando arquivo: dados/rna/rna_chr22.subst.fa
+Processo 2 processando arquivo: dados/rna/rna_chr15.subst.fa
+Processo 0 processando arquivo: dados/rna/rna_chr3.subst.fa
+Processo 1 processando arquivo: dados/rna/rna_chr9.subst.fa
+Processo 1 processando arquivo: dados/rna/rna_chr10.subst.fa
+Processo 0 processando arquivo: dados/rna/rna_chr4.subst.fa
+Processo 0 processando arquivo: dados/rna/rna_chr5.subst.fa
+Número total de proteínas inicializadas (AUG): 14826909
